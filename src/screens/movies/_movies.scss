@@ -1,0 +1,10 @@
+.movies {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 24px;
+  overflow-y: scroll;
+  max-height: 90vh;
+  .card {
+    margin-right: 24px;
+  }
+}

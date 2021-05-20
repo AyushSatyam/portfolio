@@ -1,0 +1,14 @@
+.card {
+    display: flex;
+    
+  .image-container {
+      border-radius: 8px;
+      flex-direction: column;
+    .img {
+      max-height: 300px;
+    }
+  }
+  .h4{
+      margin: 4px ;
+  }
+}
